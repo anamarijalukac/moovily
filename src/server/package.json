@@ -1,0 +1,34 @@
+{
+  "name": "drumre",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14",
+    "python-shell": "^3.0.1",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "engines": {
+    "node": "14.18.1",
+    "npm": "8.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/anamarija.lukac/drumre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/anamarija.lukac/drumre/issues"
+  },
+  "homepage": "https://gitlab.com/anamarija.lukac/drumre#readme"
+}
